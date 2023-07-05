@@ -6,7 +6,8 @@
 # Introduction
 Hi, I'm a A front-end developer
 <br> 
-who wants to become a full-stack developer.
+who wants to become a full-stack developer.<br> 
+안녕하세요! 풀스택 개발자가 되고싶은, 프론트엔드 개발자입니다.<br> 
 
 </div>
 <div align=center>
