@@ -8,7 +8,7 @@ Hi, I'm a A front-end developer
 <br> 
 who wants to become a full-stack developer.<br> 
 안녕하세요! 풀스택 개발자가 되고싶은, 프론트엔드 개발자입니다.<br> 
-
+<br>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -26,7 +26,7 @@ who wants to become a full-stack developer.<br>
 	  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<br>
 </div>
-<br>
+<br><br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -36,7 +36,7 @@ who wants to become a full-stack developer.<br>
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
+<br><br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
